@@ -1,6 +1,7 @@
-HELLO!
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SOFTWARE+DEVELOPER;)](https://git.io/typing-svg)
 
+
+Welcome,
 I'm OPEOLUWA FATUNMBI
 
 - 🔭 I’m currently working on building

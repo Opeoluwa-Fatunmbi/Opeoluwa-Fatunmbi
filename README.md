@@ -1,5 +1,5 @@
 Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Backend+Development?;I'm+your+guy!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BACKEND+DEVELOPMENT?;I'M+YOUR+GUY!)](https://git.io/typing-svg)
 
 
 **Opeoluwa-Fatunmbi/Opeoluwa-Fatunmbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

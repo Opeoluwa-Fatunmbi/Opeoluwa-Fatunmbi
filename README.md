@@ -5,7 +5,7 @@ Welcome,
 I'm OPEOLUWA FATUNMBI
 
 - 🔭 I’m currently working on building
-- 🌱 I’m currently learning 
+- 🌱 I’m currently addicted to DJANGO!
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about the latest technologies
 - 📫 How to reach me: +(234)8155260863

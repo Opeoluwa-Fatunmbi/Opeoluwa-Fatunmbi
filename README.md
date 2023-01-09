@@ -4,8 +4,8 @@ HELLO!
 I'm OPEOLUWA FATUNMBI
 
 - 🔭 I’m currently working on building
-- 🌱 I’m currently learning Django Framework
+- 🌱 I’m currently learning 
 - 👯 I’m looking to collaborate on Backend Projects
-- 💬 Ask me about the latest techonogies
+- 💬 Ask me about the latest technologies
 - 📫 How to reach me: +(234)8155260863
 - ⚡ Fun fact: I love coffee!

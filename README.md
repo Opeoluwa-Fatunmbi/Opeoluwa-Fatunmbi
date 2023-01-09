@@ -1,5 +1,5 @@
 HELLO!
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=BACKEND+DEVELOPMENT?;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=SOFTWARE+DEVELOPER;)](https://git.io/typing-svg)
 
 I'm OPEOLUWA FATUNMBI
 

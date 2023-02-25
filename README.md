@@ -4,7 +4,6 @@
 
 I'm OPEOLUWA FATUNMBI
 
-- 🔭 I’m currently working on APIs
 - 🌱 I’m addicted to DJANGO!
 - 👯 I’m looking to collaborate on Backend Projects
 - 💬 Ask me about the latest technologies

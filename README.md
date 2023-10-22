@@ -43,5 +43,5 @@ Python | Javascript
 <br>
 <img style="display: block; margin: auto; align:center;" alt="photo" src="https://github-readme-streak-stats.herokuapp.com/?user=Opeoluwa-Fatunmbi&theme=github-dark" />
 <br>
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Fatunmbir&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
+  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Opeoluwa-Fatunmbi&layout=compact&langs_count=8&hide=html&theme=github_dark&border_radius=30&border_color=39D353&title_color=fff" />
 

@@ -1,21 +1,21 @@
 # 🌐 Software Engineer || Backend Engineer 
 
 # About Me
-Greetings! I'm Opeoluwa Fatunmbi, a seasoned software engineer with a strong focus on backend development. My voyage in the tech universe has been an exhilarating journey of architecting robust, high-performance applications. What fuels my passion for this dynamic field is an insatiable thirst for knowledge and a deep commitment to staying at the forefront of technological innovation.
+Greetings! I'm Opeoluwa Fatunmbi, a software engineer with a strong focus on backend development. My journey in the tech universe has been an intresting journey of building robust, high-performance applications. What fuels my passion for this dynamic field is an insatiable thirst for knowledge and a deep commitment to staying at the forefront of technological innovation.
 
-I thrive on the challenges of embracing cutting-edge technologies and tools to consistently elevate my expertise. My dedication to mastering the art of software engineering is a testament to my unwavering commitment to delivering excellence in every project I undertake.
+I thrive on the challenges of embracing cutting-edge technologies and tools to consistently elevate my expertise. My dedication to mastering the art of software engineering is a proof of my commitment to delivering excellence in every project I undertake.
 
 # Education
 - 2018 - Present, Bachelor of Computer Engineering at the [Federal University Of Technology Akure](https://www.futa.edu.ng/)
 
 # Programming Languages
-Python | Javascript 
+Python | Javascript | Rust
 
 # Skills
   - Django | Flask | DjangoRestFramework
   - Vanilla Javascript | JQuery | React 
-  - SQLite3 | PostgreSQL
-  - MVT | REST API
+  - SQLite3 | PostgreSQL | MariaDB
+  - MVT | REST API 
   - Docker | Deployment | Testing
 
 

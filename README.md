@@ -1,7 +1,7 @@
 # 🌐 Software Engineer || Backend Engineer 
 
 # About Me
-Greetings! I'm Opeoluwa Fatunmbi, a software engineer with a strong focus on backend development. My journey in the tech universe has been an intresting journey of building robust, high-performance applications. What fuels my passion for this dynamic field is an insatiable thirst for knowledge and a deep commitment to staying at the forefront of technological innovation.
+Greetings! I'm Opeoluwa Fatunmbi, a computer engineer. My journey in the tech universe has been an intresting journey of building robust, high-performance applications. What fuels my passion for this dynamic field is an insatiable thirst for knowledge and a deep commitment to staying at the forefront of technological innovation.
 
 I thrive on the challenges of embracing cutting-edge technologies and tools to consistently elevate my expertise. My dedication to mastering the art of software engineering is a proof of my commitment to delivering excellence in every project I undertake.
 

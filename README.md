@@ -6,7 +6,7 @@ Greetings! I'm Opeoluwa Fatunmbi. My journey in the tech universe has been an in
 I thrive on the challenges of embracing cutting-edge technologies and tools to consistently elevate my expertise. My dedication to mastering the art of software engineering is a proof of my commitment to delivering excellence in every project I undertake.
 
 # Education
-- 2018 - Present, Bachelor of Computer Engineering at the [Federal University Of Technology Akure](https://www.futa.edu.ng/)
+- 2018 - 2024, Bachelor of Computer Engineering at the [Federal University Of Technology Akure](https://www.futa.edu.ng/)
 
 # Programming Languages
 Python | Javascript | Rust

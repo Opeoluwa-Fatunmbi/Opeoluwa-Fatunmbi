@@ -29,10 +29,9 @@ Python | Javascript | Rust
 - Git, Github, Linux, Slack
 
 # Socials
-- [Twitter](https://twitter.com/opeoluwaaaa)
 - [Gmail](mailto:opeoluwafatunmbi@gmail.com)
 - [Linkedin](https://www.linkedin.com/in/ofatunmbi/)
-- [Whatsapp](https://wa.me/2348155260863)
+
 
 <a href="https://www.buymeacoffee.com/opeoluwaf" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 

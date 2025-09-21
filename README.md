@@ -1,4 +1,4 @@
-# 🌐 Automation Engineer
+# 🌐 Automation Engineer | Software Engineer
 
 # About Me
 Greetings! I'm Opeoluwa Fatunmbi. My journey in the tech universe has been an intresting journey of building robust, high-performance applications. What fuels my passion for this dynamic field is an insatiable thirst for knowledge and a deep commitment to staying at the forefront of technological innovation.

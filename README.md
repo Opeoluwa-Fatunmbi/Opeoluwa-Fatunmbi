@@ -9,7 +9,7 @@ I thrive on the challenges of embracing cutting-edge technologies and tools to c
 - 2018 - 2024, Bachelor of Computer Engineering at the [Federal University Of Technology Akure](https://www.futa.edu.ng/)
 
 # Programming Languages
-Python | Javascript | Rust
+Python | Javascript | Rust | C#
 
 # Skills
   - Django | Flask | DjangoRestFramework
